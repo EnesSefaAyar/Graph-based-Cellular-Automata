@@ -1,4 +1,4 @@
-# Graph-based-Cellular-Automata
+# Graph-based Cellular Automata
 
 
 ### Data Access
