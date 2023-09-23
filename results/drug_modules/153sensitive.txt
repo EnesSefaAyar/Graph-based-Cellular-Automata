@@ -1,0 +1,7 @@
+Gene	seed_specificity
+FGF6	0.63
+FGF18	0.6
+ADCY3	0.63
+ERRFI1	0.72
+HSPA2	0.6
+TBC1D4	0.69

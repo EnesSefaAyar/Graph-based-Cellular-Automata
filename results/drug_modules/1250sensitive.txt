@@ -1,0 +1,4 @@
+Gene	seed_specificity
+FGF6	0.63
+CAMK2B	0.71
+GSDMD	0.64

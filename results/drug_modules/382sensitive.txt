@@ -1,0 +1,6 @@
+Gene	seed_specificity
+ARPC3	0.73
+TAP1	0.77
+ARPC1A	0.83
+CYC1	1.0
+WIPF3	1.0

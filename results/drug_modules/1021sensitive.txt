@@ -1,0 +1,6 @@
+Gene	seed_specificity
+GNGT1	0.38
+PARVB	1.0
+FOXO6	0.69
+PRM1	1.0
+WIPF3	1.0

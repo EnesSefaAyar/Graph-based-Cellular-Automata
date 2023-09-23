@@ -1,0 +1,8 @@
+Gene	seed_specificity
+KLC3	1.0
+NDUFA13	1.0
+EEA1	0.69
+IL17F	0.73
+KLC4	1.0
+IL17RC	0.69
+TBC1D4	0.69

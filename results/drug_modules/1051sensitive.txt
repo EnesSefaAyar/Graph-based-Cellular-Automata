@@ -1,0 +1,3 @@
+Gene	seed_specificity
+PRKG1	0.74
+PLCB1	0.44999999999999996

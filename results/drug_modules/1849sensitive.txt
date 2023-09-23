@@ -1,0 +1,7 @@
+Gene	seed_specificity
+FGF5	0.63
+LIN54	1.0
+LIN37	1.0
+SNIP1	1.0
+CAMK2B	0.71
+TGFA	0.64

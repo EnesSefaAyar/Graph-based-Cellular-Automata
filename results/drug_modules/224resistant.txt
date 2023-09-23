@@ -1,0 +1,7 @@
+Gene	seed_specificity
+PAK5	0.6
+SIK1	0.84
+KLF6	0.84
+CIR1	1.0
+PIAS2	0.84
+TBC1D4	0.69
