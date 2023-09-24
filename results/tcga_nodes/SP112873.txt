@@ -1,0 +1,2 @@
+Gene	seed_specificity
+GDF15	1.0

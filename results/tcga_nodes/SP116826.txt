@@ -1,0 +1,2 @@
+Gene	seed_specificity
+AEBP2	1.0

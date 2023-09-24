@@ -1,0 +1,2 @@
+Gene	seed_specificity
+XRCC3	1.0

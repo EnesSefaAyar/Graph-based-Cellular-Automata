@@ -1,0 +1,3 @@
+Gene	seed_specificity
+HEY2	0.47
+SPEN	1.0

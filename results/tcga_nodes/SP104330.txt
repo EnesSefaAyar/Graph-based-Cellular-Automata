@@ -1,0 +1,2 @@
+Gene	seed_specificity
+GNAQ	1.0

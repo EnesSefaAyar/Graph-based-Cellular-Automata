@@ -1,0 +1,2 @@
+Gene	seed_specificity
+KIF4A	1.0

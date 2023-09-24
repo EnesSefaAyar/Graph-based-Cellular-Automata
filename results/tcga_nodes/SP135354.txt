@@ -1,0 +1,3 @@
+Gene	seed_specificity
+PCCB	1.0
+PCCA	1.0

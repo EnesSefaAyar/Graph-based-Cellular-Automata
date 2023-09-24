@@ -1,0 +1,2 @@
+Gene	seed_specificity
+UBQLN1	1.0

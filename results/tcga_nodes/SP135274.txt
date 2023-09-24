@@ -1,0 +1,2 @@
+Gene	seed_specificity
+ATRX	1.0

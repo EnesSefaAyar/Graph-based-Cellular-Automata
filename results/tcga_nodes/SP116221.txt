@@ -1,0 +1,2 @@
+Gene	seed_specificity
+ASH1L	1.0

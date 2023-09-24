@@ -1,0 +1,2 @@
+Gene	seed_specificity
+CHL1	1.0

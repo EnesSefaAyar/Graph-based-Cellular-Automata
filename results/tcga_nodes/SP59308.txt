@@ -1,0 +1,3 @@
+Gene	seed_specificity
+MAZ	0.94
+KMT2D	1.0

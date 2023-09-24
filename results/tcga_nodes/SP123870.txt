@@ -1,0 +1,2 @@
+Gene	seed_specificity
+CAND1	1.0

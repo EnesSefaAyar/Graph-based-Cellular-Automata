@@ -1,0 +1,3 @@
+Gene	seed_specificity
+UBR4	1.0
+KCMF1	1.0

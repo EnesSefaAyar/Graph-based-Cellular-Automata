@@ -1,0 +1,2 @@
+Gene	seed_specificity
+RPL11	1.0

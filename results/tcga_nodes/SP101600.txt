@@ -1,0 +1,2 @@
+Gene	seed_specificity
+DOC2A	1.0

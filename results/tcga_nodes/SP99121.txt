@@ -1,0 +1,3 @@
+Gene	seed_specificity
+PLIN3	1.0
+IPO5	1.0

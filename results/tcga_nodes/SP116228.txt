@@ -1,0 +1,2 @@
+Gene	seed_specificity
+LPIN2	1.0

@@ -1,0 +1,2 @@
+Gene	seed_specificity
+TTN	1.0

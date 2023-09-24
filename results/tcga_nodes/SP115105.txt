@@ -1,0 +1,2 @@
+Gene	seed_specificity
+UPF2	1.0

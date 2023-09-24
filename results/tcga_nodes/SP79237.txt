@@ -1,0 +1,2 @@
+Gene	seed_specificity
+P2RY6	1.0

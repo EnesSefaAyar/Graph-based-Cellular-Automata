@@ -1,0 +1,2 @@
+Gene	seed_specificity
+NONO	1.0

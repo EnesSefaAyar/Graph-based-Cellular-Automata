@@ -1,0 +1,3 @@
+Gene	seed_specificity
+MCU	1.0
+MICU1	1.0
