@@ -1,0 +1,3 @@
+Gene	seed_specificity
+USH1G	1.0
+USH1C	1.0

@@ -1,0 +1,5 @@
+Gene	seed_specificity
+NLGN4Y	1.0
+PUM2	1.0
+DAZ1	1.0
+DAZL	1.0

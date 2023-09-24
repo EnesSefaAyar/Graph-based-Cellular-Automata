@@ -1,0 +1,2 @@
+Gene	seed_specificity
+TPI1	1.0
