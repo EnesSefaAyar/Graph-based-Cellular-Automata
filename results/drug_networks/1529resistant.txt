@@ -1,0 +1,1 @@
+MAPK10 ELK1 {'Confidence': 0.865, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

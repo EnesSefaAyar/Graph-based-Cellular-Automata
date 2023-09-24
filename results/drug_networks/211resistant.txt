@@ -1,0 +1,1 @@
+C6 C7 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

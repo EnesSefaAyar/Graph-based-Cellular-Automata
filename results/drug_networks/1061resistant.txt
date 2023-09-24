@@ -1,0 +1,1 @@
+PAK2 ARHGEF6 {'Confidence': 0.986, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

@@ -1,0 +1,1 @@
+GSK3B DPYSL2 {'Confidence': 0.964, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

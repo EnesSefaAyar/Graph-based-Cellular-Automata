@@ -1,0 +1,1 @@
+CAMK2B ATF4 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
