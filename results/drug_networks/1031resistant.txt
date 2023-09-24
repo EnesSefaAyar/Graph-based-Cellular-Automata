@@ -1,0 +1,10 @@
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PALB2 POLH {'Confidence': 0.949, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PALB2 BRCA2 {'Confidence': 0.9, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+FANCB FANCM {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCB FAAP100 {'Confidence': 0.56, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+FANCM FAAP100 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+BRCA2 POLH {'Confidence': 0.78, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

@@ -1,0 +1,10 @@
+PIP4K2B SCIN {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PIP4K2C SCIN {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ACTG1 {'Confidence': 0.878, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC1A {'Confidence': 0.93, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYL7 ACTG1 {'Confidence': 0.764, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+YWHAE MAP2K2 {'Confidence': 0.943, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+MYLK2 MYL12A {'Confidence': 0.957, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYLK2 MYL7 {'Confidence': 0.768, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYL12A ACTG1 {'Confidence': 0.775, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

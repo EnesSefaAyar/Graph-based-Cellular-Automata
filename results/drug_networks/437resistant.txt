@@ -1,0 +1,10 @@
+POLK REV1 {'Confidence': 0.93, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+REV1 POLK {'Confidence': 0.93, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+REV1 POLI {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+REV1 POLH {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PALB2 POLH {'Confidence': 0.949, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLI REV1 {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLH REV1 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+POLD2 RFC5 {'Confidence': 0.976, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+POLD3 RFC5 {'Confidence': 0.924, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

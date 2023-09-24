@@ -1,0 +1,9 @@
+GNGT1 PLCB1 {'Confidence': 0.9, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+GNGT1 PLCB2 {'Confidence': 0.806, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FGF1 PDGFRA {'Confidence': 0.773, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PGF PDGFRA {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FGF18 PDGFRA {'Confidence': 0.749, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP16 MAPK8IP2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TFCP2 FN1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+IL12A GADD45G {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+THBS1 FN1 {'Confidence': 0.998, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

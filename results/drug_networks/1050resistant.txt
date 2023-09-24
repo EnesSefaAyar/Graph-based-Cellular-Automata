@@ -1,0 +1,12 @@
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+FANCB FANCM {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCB FANCG {'Confidence': 0.83, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCB FAAP100 {'Confidence': 0.56, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+FANCG BRCA2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN37 LIN54 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN54 LIN37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCM FANCG {'Confidence': 0.83, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCM FAAP100 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+FAAP100 FANCG {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+BRCA2 FANCG {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

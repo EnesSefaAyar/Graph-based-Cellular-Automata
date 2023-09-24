@@ -1,0 +1,9 @@
+REV1 POLI {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RAD17 RFC5 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+POLI REV1 {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+POLD2 RFC5 {'Confidence': 0.976, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DOCK2 ELMO1 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+RFC5 RAD17 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+ELMO1 DOCK2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+POLD3 RFC5 {'Confidence': 0.924, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

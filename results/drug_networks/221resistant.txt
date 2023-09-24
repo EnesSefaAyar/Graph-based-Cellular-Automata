@@ -1,0 +1,8 @@
+SGK3 GSK3B {'Confidence': 0.88, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PPP2R5D GSK3B {'Confidence': 0.763, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+KLC4 KLC3 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSK3B RCAN1 {'Confidence': 0.84, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PPP1R12B MYL12B {'Confidence': 0.944, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYL12B ACTG1 {'Confidence': 0.803, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+KLC3 KLC4 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

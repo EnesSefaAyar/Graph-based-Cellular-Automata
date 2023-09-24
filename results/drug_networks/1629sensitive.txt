@@ -1,0 +1,10 @@
+POU1F1 GH2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PLPP2 DGKG {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+LIN37 LIN54 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN54 LIN37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+GSK3B TSC2 {'Confidence': 0.982, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+GSK3B KLC2 {'Confidence': 0.837, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+GSK3B DPYSL2 {'Confidence': 0.964, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TSC2 GSK3B {'Confidence': 0.86, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ELMO1 DOCK2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+DOCK2 ELMO1 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

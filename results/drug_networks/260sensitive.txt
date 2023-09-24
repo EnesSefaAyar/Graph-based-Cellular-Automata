@@ -1,0 +1,11 @@
+ORC5 ORC3 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC5 ORC1 {'Confidence': 0.96, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC5 ORC6 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC3 ORC1 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC3 ORC6 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC3 ORC5 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC1 ORC5 {'Confidence': 0.96, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC1 ORC3 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+RCAN1 PPP3CA {'Confidence': 0.983, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC6 ORC3 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC6 ORC5 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

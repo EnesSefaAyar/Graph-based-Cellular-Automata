@@ -1,0 +1,10 @@
+MCM6 MCM4 {'Confidence': 1.0, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+STAG1 STAG2 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ATF4 DDIT4 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RAPGEF3 RYR2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+KLC2 KIF5C {'Confidence': 0.95, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+KIF5C KLC2 {'Confidence': 0.95, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MCM4 MCM6 {'Confidence': 1.0, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+STAG2 STAG1 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

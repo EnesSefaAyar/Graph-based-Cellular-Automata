@@ -1,0 +1,9 @@
+MAP2K2 MAPK10 {'Confidence': 0.85, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TGFA PDGFRA {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ATF4 IHH {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}
+MAPK10 ELK1 {'Confidence': 0.865, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PDGFRA SHC4 {'Confidence': 0.831, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+VEGFC PDGFRA {'Confidence': 0.785, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PPP1R12B MYL12B {'Confidence': 0.944, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MAP3K12 MYL12B {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}

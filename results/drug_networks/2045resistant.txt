@@ -1,0 +1,10 @@
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MCOLN1 MCOLN2 {'Confidence': 0.812, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MCOLN2 MCOLN1 {'Confidence': 0.812, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+CAPN1 VCL {'Confidence': 0.934, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPNS1 CAPN2 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPN2 VCL {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ELMO1 DOCK2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+CASQ2 TRDN {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DOCK2 ELMO1 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+TRDN CASQ2 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
