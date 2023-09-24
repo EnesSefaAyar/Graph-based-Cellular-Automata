@@ -1,0 +1,2 @@
+STAG1 STAG2 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+STAG2 STAG1 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

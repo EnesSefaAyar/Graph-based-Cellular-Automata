@@ -1,0 +1,2 @@
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

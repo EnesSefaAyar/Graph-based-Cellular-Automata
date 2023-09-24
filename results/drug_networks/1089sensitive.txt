@@ -1,0 +1,3 @@
+IL17F IL17RC {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+KLC4 KLC3 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+KLC3 KLC4 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

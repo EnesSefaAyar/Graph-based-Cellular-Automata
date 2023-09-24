@@ -1,0 +1,3 @@
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSK3B SNCAIP {'Confidence': 0.54351985, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSK3B RCAN1 {'Confidence': 0.84, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

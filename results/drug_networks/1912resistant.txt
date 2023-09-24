@@ -1,0 +1,2 @@
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

@@ -1,0 +1,2 @@
+RAPGEF3 RYR2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+GSK3B SNCAIP {'Confidence': 0.54351985, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

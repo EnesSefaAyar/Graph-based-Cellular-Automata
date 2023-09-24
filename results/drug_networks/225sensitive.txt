@@ -1,0 +1,4 @@
+SNX32 SNX2 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX32 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX5 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX5 SNX2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

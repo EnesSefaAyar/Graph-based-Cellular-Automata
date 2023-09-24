@@ -1,0 +1,3 @@
+ATF4 CHAC1 {'Confidence': 0.956, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MAP3K12 MYL12B {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}
+MYL12B ACTG1 {'Confidence': 0.803, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

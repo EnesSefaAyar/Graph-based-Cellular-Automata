@@ -1,0 +1,3 @@
+GNGT1 PLCB2 {'Confidence': 0.806, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

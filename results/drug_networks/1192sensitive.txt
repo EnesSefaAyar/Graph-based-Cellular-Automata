@@ -1,0 +1,3 @@
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PPP1R12B MYL12B {'Confidence': 0.944, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MAP3K12 MYL12B {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}

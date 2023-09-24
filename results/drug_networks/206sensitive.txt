@@ -1,0 +1,3 @@
+RCAN1 PPP3CA {'Confidence': 0.983, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+IL12A GADD45G {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

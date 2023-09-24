@@ -1,0 +1,3 @@
+MYLK2 MYL12B {'Confidence': 0.879, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYLK2 MYL12A {'Confidence': 0.957, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYLK2 MYL7 {'Confidence': 0.768, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

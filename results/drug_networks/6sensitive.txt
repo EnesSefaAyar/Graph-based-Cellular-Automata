@@ -1,0 +1,3 @@
+SGK3 GSK3B {'Confidence': 0.88, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PLPP2 DGKG {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PPP3CA GSK3B {'Confidence': 0.902, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

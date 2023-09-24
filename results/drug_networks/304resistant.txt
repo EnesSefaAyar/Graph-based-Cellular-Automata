@@ -1,0 +1,3 @@
+WASF1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+IL12A IL12B {'Confidence': 0.998, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
