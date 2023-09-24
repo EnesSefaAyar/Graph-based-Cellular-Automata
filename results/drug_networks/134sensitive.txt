@@ -1,0 +1,6 @@
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+ATF4 SIGMAR1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PPP3CC EPS15 {'Confidence': 0.907, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}
+ELMO1 DOCK2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+DOCK2 ELMO1 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

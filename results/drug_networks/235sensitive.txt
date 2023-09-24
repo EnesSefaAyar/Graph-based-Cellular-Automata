@@ -1,0 +1,4 @@
+KIF5A KLC2 {'Confidence': 0.95, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+BRK1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+KLC2 KIF5A {'Confidence': 0.95, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+CSNK2B CACNA1S {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

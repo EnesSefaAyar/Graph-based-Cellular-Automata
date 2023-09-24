@@ -1,0 +1,5 @@
+ATF4 SIGMAR1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 BAK1 {'Confidence': 0.997, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 POLK {'Confidence': 0.843, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 CX3CL1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CSNK2B TP53 {'Confidence': 0.972, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

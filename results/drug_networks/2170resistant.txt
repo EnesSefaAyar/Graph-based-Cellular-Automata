@@ -1,0 +1,7 @@
+DUSP10 MAPK10 {'Confidence': 0.814, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RAPGEF3 RYR2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP8 MAPK10 {'Confidence': 0.764, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FGF8 PDGFRA {'Confidence': 0.749, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FGF8 THBS1 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+VEGFC PDGFRA {'Confidence': 0.785, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MAPK10 KIF5C {'Confidence': 0.74, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

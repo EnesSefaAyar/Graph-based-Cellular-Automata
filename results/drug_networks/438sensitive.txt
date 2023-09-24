@@ -1,0 +1,7 @@
+MAPK7 RPS6KA1 {'Confidence': 0.94, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RPS6KA1 GSK3B {'Confidence': 0.43887317, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSK3B SNCAIP {'Confidence': 0.54351985, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+CAPNS1 CAPN2 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPN2 GSK3B {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CASP5 GSDMD {'Confidence': 0.966, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

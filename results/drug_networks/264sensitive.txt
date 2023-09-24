@@ -1,0 +1,4 @@
+EFNB2 EPHB4 {'Confidence': 0.89, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+VAV2 PIK3AP1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ABL2 PRKD3 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}

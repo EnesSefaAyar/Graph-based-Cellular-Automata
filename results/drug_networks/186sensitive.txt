@@ -1,0 +1,6 @@
+GNGT1 PLCB2 {'Confidence': 0.806, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PAK6 LIMK1 {'Confidence': 0.52, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+BRK1 WASF1 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+BRK1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC5L {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 BRK1 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

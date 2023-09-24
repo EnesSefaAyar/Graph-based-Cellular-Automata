@@ -1,0 +1,4 @@
+EFNB2 EPHB4 {'Confidence': 0.89, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PAK6 MYLK2 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+LIN37 LIN54 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN54 LIN37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

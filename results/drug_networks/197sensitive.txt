@@ -1,0 +1,6 @@
+FGF1 PDGFRA {'Confidence': 0.773, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PALB2 POLH {'Confidence': 0.949, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+VEGFC PDGFRA {'Confidence': 0.785, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FGF18 PDGFRA {'Confidence': 0.749, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+IL12A GADD45G {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FGF5 PDGFRA {'Confidence': 0.744, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

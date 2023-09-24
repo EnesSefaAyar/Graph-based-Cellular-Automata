@@ -1,0 +1,8 @@
+REV1 POLI {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+REV1 POLH {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PALB2 POLH {'Confidence': 0.949, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+WASF1 ACTG1 {'Confidence': 0.878, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYL7 ACTG1 {'Confidence': 0.764, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+POLI REV1 {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLH REV1 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MYL12B ACTG1 {'Confidence': 0.803, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

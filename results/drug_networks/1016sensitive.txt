@@ -1,0 +1,6 @@
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MYL7 ACTG1 {'Confidence': 0.764, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ELMO1 DOCK2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+DOCK2 ELMO1 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+MYL12B ACTG1 {'Confidence': 0.803, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MYL12A ACTG1 {'Confidence': 0.775, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

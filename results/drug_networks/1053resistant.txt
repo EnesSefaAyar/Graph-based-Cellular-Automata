@@ -1,0 +1,6 @@
+KIF5A KLC2 {'Confidence': 0.95, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+KLC2 KIF5A {'Confidence': 0.95, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

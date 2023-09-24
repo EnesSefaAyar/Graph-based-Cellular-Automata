@@ -1,0 +1,5 @@
+REV1 POLI {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+ATF4 CHAC1 {'Confidence': 0.956, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ATF4 DDIT4 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+POLI REV1 {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

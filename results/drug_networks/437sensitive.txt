@@ -1,0 +1,4 @@
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+WASF1 ACTG1 {'Confidence': 0.878, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC1A {'Confidence': 0.93, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC4 {'Confidence': 0.939, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
