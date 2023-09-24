@@ -1,0 +1,2 @@
+USH1G USH1C {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+USH1C USH1G {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}

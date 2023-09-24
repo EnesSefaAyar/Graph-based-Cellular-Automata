@@ -1,0 +1,13 @@
+PUM2 DAZL {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RAPGEF3 RYR2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DAZ1 DAZL {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL PUM2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL DAZ1 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GHRH VIPR1 {'Confidence': 0.81, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CREB3L1 CREBBP {'Confidence': 0.84, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CREB3L3 CREBBP {'Confidence': 0.817, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+UCN CRHR1 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+ADCYAP1 ADCYAP1R1 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ADCYAP1 VIPR1 {'Confidence': 0.993, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+ADCYAP1 GHRH {'Confidence': 0.848, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+GRP BRS3 {'Confidence': 0.994, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

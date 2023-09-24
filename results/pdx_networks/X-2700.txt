@@ -1,0 +1,12 @@
+PUM2 DAZL {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZ1 DAZL {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL PUM2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL DAZ1 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GBP2 GBP3 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM5 GSTM4 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM5 GSTM3 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM4 GSTM5 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM4 GSTM3 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GBP3 GBP2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM3 GSTM4 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM3 GSTM5 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

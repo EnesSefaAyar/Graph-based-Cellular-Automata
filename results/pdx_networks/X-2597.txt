@@ -1,0 +1,17 @@
+IL3 MPO {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TAP1 TAP2 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 CCNG1 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 MSH2 {'Confidence': 0.99, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+TP53 SESN1 {'Confidence': 0.959, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 POLK {'Confidence': 0.843, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 GADD45G {'Confidence': 0.912, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 TGFA {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 TAP1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 TRAF4 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 GSTP1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 DCC {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+GNGT1 PLCB1 {'Confidence': 0.9, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+GNGT1 PLCB2 {'Confidence': 0.806, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+IL12A GADD45G {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+SIK1 TP53 {'Confidence': 0.921, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TAP2 TAP1 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

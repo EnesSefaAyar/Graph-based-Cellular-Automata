@@ -1,0 +1,8 @@
+LAMB1 LAMC1 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LAMC1 LAMB1 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+GSTM5 GSTM4 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM5 GSTM3 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM4 GSTM5 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM4 GSTM3 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM3 GSTM4 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSTM3 GSTM5 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

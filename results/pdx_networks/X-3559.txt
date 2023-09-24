@@ -1,0 +1,14 @@
+PTPN7 MAPK13 {'Confidence': 0.715, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PUM2 DAZL {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MAPK13 ELK4 {'Confidence': 0.814, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+HLA-A KLRC2 {'Confidence': 0.962, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DAZ1 DAZL {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL PUM2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL DAZ1 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DUSP16 MAPK13 {'Confidence': 0.858, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP16 MAPK8IP2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MAPK8IP2 MAPK13 {'Confidence': 0.727, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DUSP5 MAPK13 {'Confidence': 0.766, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP2 MAPK13 {'Confidence': 0.705, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP10 MAPK13 {'Confidence': 0.814, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP8 MAPK13 {'Confidence': 0.821, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

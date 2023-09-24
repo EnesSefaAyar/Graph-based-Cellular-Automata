@@ -1,0 +1,13 @@
+PUM2 DAZL {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RRAGB DEPTOR {'Confidence': 0.953, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RRAGB AKT1S1 {'Confidence': 0.954, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RPS6KA5 CREB3L1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RPS6KA5 CREB3L3 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DAZ1 DAZL {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RRAGA DEPTOR {'Confidence': 0.957, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RRAGA AKT1S1 {'Confidence': 0.991, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DAZL PUM2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DAZL DAZ1 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+WDR59 SESN2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SESN2 MIOS {'Confidence': 0.977, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SESN2 WDR59 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
