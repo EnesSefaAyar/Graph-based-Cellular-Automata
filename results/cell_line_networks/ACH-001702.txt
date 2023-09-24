@@ -1,0 +1,2 @@
+VGLL4 TEAD3 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TEAD3 VGLL4 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

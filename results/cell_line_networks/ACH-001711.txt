@@ -1,0 +1,2 @@
+ZFHX4 FOXL1 {'Confidence': 0.86, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+FOXL1 ZFHX4 {'Confidence': 0.86, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

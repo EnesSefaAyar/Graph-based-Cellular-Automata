@@ -1,0 +1,14 @@
+CASP10 CASP7 {'Confidence': 0.939, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+HLA-A CD8A {'Confidence': 0.992, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+HLA-A KLRD1 {'Confidence': 0.969, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+HLA-G CD8A {'Confidence': 0.988, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+HLA-G KLRD1 {'Confidence': 0.968, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+BAK1 VDAC1 {'Confidence': 0.909, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+BAK1 AIFM1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+BAK1 ENDOG {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+BCL2L2 BAK1 {'Confidence': 0.878, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TNFRSF10D CASP10 {'Confidence': 0.963, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RPS6KA4 CREB3L3 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+E2F2 CASP7 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PTTG2 ESPL1 {'Confidence': 0.958, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PTPN13 PDLIM4 {'Confidence': 0.805, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': False, 'complex': True}

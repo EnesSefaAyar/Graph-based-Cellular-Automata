@@ -1,0 +1,2 @@
+NF2 LATS2 {'Confidence': 0.992, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+CASP5 GSDMD {'Confidence': 0.966, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

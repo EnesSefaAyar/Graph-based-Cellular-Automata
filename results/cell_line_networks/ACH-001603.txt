@@ -1,0 +1,10 @@
+NOP58 NOLC1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+DOCK2 ELMO1 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RCAN1 PPP3CA {'Confidence': 0.983, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+NOLC1 NOP58 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+PPP3CA EPS15 {'Confidence': 0.907, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ELMO1 DOCK2 {'Confidence': 0.85, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+CSK ELMO1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CSK DOCK2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CXCL3 CXCR1 {'Confidence': 0.944, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
