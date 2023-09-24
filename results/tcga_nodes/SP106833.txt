@@ -1,0 +1,5 @@
+Gene	seed_specificity
+PDS5A	1.0
+PKD1	1.0
+CLDN2	0.6599999999999999
+PDS5B	1.0

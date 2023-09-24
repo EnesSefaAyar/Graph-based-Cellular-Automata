@@ -1,0 +1,6 @@
+Gene	seed_specificity
+GTF2F2	1.0
+KMT2D	1.0
+PCGF1	1.0
+MAZ	0.94
+BCOR	1.0

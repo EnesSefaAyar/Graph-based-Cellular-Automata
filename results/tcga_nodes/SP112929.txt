@@ -1,0 +1,5 @@
+Gene	seed_specificity
+SETD2	1.0
+GSKIP	1.0
+DNM1L	1.0
+BPTF	1.0

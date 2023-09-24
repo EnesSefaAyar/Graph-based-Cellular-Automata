@@ -1,0 +1,4 @@
+Gene	seed_specificity
+ZMYM2	1.0
+PHF21A	1.0
+GSE1	1.0

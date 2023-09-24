@@ -1,0 +1,4 @@
+Gene	seed_specificity
+CDH9	1.0
+NF2	0.84
+ITGAE	0.91

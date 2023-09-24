@@ -1,0 +1,4 @@
+Gene	seed_specificity
+NRG3	1.0
+ABL2	0.91
+RPS6KB2	0.85

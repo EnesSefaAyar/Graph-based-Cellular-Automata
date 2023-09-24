@@ -1,0 +1,4 @@
+Gene	seed_specificity
+NR1D1	1.0
+FBXL3	1.0
+CRY2	0.95

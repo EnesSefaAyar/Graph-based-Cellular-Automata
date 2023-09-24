@@ -1,0 +1,6 @@
+Gene	seed_specificity
+IMP4	1.0
+EZH1	1.0
+IMP3	1.0
+AEBP2	1.0
+MPHOSPH10	1.0

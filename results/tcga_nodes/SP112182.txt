@@ -1,0 +1,8 @@
+Gene	seed_specificity
+BAG1	1.0
+ERP29	1.0
+SEC23IP	1.0
+SMC6	1.0
+HERPUD1	0.96
+SMC5	1.0
+SEL1L	1.0

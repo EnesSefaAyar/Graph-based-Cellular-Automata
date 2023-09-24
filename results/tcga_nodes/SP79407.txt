@@ -1,0 +1,5 @@
+Gene	seed_specificity
+IL18RAP	0.5
+TBX21	0.86
+RORC	1.0
+IL17F	0.73

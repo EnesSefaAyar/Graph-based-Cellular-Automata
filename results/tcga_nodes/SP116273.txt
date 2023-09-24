@@ -1,0 +1,12 @@
+Gene	seed_specificity
+C3AR1	0.77
+C5AR2	1.0
+VSIG4	1.0
+C7	1.0
+C5	1.0
+C8A	1.0
+C8G	1.0
+C9	1.0
+CFH	1.0
+C6	1.0
+C8B	1.0

@@ -1,0 +1,4 @@
+Gene	seed_specificity
+SETD2	1.0
+HOOK2	1.0
+AKTIP	1.0

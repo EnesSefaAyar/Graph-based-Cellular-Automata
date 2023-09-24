@@ -1,0 +1,9 @@
+Gene	seed_specificity
+KLHL3	1.0
+TRIP12	1.0
+KLHL9	1.0
+UBE2K	1.0
+UBA7	1.0
+WNK4	1.0
+DET1	1.0
+UBE2W	1.0

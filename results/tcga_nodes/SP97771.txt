@@ -1,0 +1,4 @@
+Gene	seed_specificity
+ZBTB33	1.0
+PAFAH1B1	1.0
+LRRK2	0.85

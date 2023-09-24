@@ -1,0 +1,5 @@
+Gene	seed_specificity
+LYAR	1.0
+NOP58	1.0
+NBAS	1.0
+RBM28	1.0

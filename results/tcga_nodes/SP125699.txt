@@ -1,0 +1,5 @@
+Gene	seed_specificity
+GRIK2	1.0
+PMS1	1.0
+GRIA4	0.86
+ADAM23	1.0

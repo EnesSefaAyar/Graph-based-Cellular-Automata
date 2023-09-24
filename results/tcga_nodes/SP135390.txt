@@ -1,0 +1,6 @@
+Gene	seed_specificity
+ATG14	1.0
+SLC25A5	0.88
+DAB1	1.0
+NRBF2	1.0
+ATXN1	0.97

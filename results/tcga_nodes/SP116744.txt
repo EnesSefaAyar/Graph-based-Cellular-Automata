@@ -1,0 +1,5 @@
+Gene	seed_specificity
+SETD2	1.0
+RTN4R	1.0
+TAF1A	1.0
+XPO1	1.0

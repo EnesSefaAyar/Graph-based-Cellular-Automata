@@ -1,0 +1,5 @@
+Gene	seed_specificity
+KDM3A	1.0
+AHRR	1.0
+MTHFR	1.0
+CCNT1	0.83
