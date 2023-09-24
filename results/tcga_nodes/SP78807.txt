@@ -1,3 +1,0 @@
-Gene	seed_specificity
-RTN4R	1.0
-RTN4	1.0

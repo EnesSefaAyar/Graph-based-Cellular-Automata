@@ -1,4 +1,0 @@
-Gene	seed_specificity
-ATG14	1.0
-ATG10	0.91
-IGFBP7	1.0

@@ -1,3 +1,0 @@
-Gene	seed_specificity
-NASP	1.0
-IPO4	1.0

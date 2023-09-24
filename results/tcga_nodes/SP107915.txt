@@ -1,2 +1,0 @@
-Gene	seed_specificity
-SYN1	0.9299999999999999

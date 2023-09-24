@@ -1,4 +1,0 @@
-Gene	seed_specificity
-GLUL	1.0
-NKRF	1.0
-TRAF1	0.25

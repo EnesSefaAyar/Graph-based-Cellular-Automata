@@ -1,7 +1,0 @@
-Gene	seed_specificity
-UCP1	0.83
-RETN	0.83
-FOXC2	1.0
-PCK1	0.88
-MIF	0.83
-LPIN1	0.65

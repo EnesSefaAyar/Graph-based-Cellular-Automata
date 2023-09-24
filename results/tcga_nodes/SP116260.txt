@@ -1,7 +1,0 @@
-Gene	seed_specificity
-EXOC6	1.0
-EXOC1	1.0
-EXOC3	1.0
-CEP290	1.0
-TRDN	1.0
-CASQ2	1.0

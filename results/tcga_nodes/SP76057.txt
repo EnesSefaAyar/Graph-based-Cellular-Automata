@@ -1,5 +1,0 @@
-Gene	seed_specificity
-RREB1	1.0
-RCOR3	1.0
-DLG3	1.0
-LCOR	1.0

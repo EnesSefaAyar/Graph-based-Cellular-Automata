@@ -1,7 +1,0 @@
-Gene	seed_specificity
-PDS5B	1.0
-RNF125	1.0
-PDS5A	1.0
-AZI2	1.0
-DHX58	1.0
-IFITM1	1.0

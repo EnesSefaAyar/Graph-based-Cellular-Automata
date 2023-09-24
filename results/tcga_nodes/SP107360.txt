@@ -1,2 +1,0 @@
-Gene	seed_specificity
-ASXL1	1.0

@@ -1,3 +1,0 @@
-Gene	seed_specificity
-TTI2	1.0
-TELO2	1.0

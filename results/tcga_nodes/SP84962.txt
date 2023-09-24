@@ -1,2 +1,0 @@
-Gene	seed_specificity
-KMT2B	1.0

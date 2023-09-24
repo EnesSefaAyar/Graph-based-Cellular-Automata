@@ -1,3 +1,0 @@
-Gene	seed_specificity
-STRN3	1.0
-STRN4	1.0

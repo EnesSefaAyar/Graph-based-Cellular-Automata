@@ -1,4 +1,0 @@
-Gene	seed_specificity
-DMD	1.0
-RYR2	0.45999999999999996
-MYBPC3	0.99

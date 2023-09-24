@@ -1,5 +1,0 @@
-Gene	seed_specificity
-JMJD1C	1.0
-CENPE	1.0
-ASXL2	1.0
-TTN	1.0

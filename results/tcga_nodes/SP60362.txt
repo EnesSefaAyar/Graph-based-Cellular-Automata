@@ -1,3 +1,0 @@
-Gene	seed_specificity
-ASXL1	1.0
-NLGN1	1.0

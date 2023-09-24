@@ -1,3 +1,0 @@
-Gene	seed_specificity
-LIPG	1.0
-APOC1	1.0

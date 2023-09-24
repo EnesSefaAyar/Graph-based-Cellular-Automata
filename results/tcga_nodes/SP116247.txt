@@ -1,5 +1,0 @@
-Gene	seed_specificity
-BEX3	1.0
-ARHGDIG	1.0
-NTRK2	0.42000000000000004
-MATK	0.78

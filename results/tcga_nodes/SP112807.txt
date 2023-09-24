@@ -1,2 +1,0 @@
-Gene	seed_specificity
-PAN2	1.0

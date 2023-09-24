@@ -1,5 +1,0 @@
-Gene	seed_specificity
-AFF4	1.0
-ELL2	1.0
-EAF1	1.0
-CCNT1	0.83

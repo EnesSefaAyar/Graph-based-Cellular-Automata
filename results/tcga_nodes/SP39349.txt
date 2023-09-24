@@ -1,2 +1,0 @@
-Gene	seed_specificity
-SUPT20H	1.0

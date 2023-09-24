@@ -1,2 +1,0 @@
-Gene	seed_specificity
-AHNAK	0.76

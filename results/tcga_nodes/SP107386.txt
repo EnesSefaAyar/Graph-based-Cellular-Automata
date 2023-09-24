@@ -1,4 +1,0 @@
-Gene	seed_specificity
-COPB2	1.0
-MAZ	0.94
-KMT2D	1.0

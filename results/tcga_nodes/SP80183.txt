@@ -1,2 +1,0 @@
-Gene	seed_specificity
-UBR2	1.0

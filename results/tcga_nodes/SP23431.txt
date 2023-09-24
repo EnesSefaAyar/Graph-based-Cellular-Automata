@@ -1,3 +1,0 @@
-Gene	seed_specificity
-UNC80	1.0
-NALCN	1.0

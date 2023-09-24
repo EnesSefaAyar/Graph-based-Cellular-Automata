@@ -1,5 +1,0 @@
-Gene	seed_specificity
-HUS1B	1.0
-CCNG1	1.0
-SESN1	1.0
-RAD17	0.94

@@ -1,3 +1,0 @@
-Gene	seed_specificity
-AHNAK	0.76
-TSHZ3	1.0

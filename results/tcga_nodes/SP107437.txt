@@ -1,3 +1,0 @@
-Gene	seed_specificity
-ACHE	1.0
-PNPLA6	1.0

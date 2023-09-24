@@ -1,3 +1,0 @@
-Gene	seed_specificity
-MGA	1.0
-SRCAP	1.0

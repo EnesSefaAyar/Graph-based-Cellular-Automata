@@ -1,6 +1,0 @@
-Gene	seed_specificity
-KMT2D	1.0
-PIBF1	1.0
-C2CD3	1.0
-CSPP1	1.0
-MAZ	0.94

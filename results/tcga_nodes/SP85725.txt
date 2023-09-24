@@ -1,2 +1,0 @@
-Gene	seed_specificity
-TG	1.0

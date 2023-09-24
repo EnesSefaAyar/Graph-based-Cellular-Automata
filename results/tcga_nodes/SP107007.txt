@@ -1,9 +1,0 @@
-Gene	seed_specificity
-AZI2	1.0
-ARHGAP29	1.0
-MIER2	1.0
-RNF125	1.0
-IFITM1	1.0
-DHX58	1.0
-WIZ	1.0
-MIER1	1.0

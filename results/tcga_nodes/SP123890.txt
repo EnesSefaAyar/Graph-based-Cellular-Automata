@@ -1,2 +1,0 @@
-Gene	seed_specificity
-STIL	1.0

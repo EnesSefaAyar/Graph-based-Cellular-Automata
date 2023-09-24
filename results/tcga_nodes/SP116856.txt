@@ -1,3 +1,0 @@
-Gene	seed_specificity
-EGLN3	0.31999999999999995
-OS9	1.0

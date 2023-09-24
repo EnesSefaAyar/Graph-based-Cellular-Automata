@@ -1,5 +1,0 @@
-Gene	seed_specificity
-UBR4	1.0
-KCMF1	1.0
-TNNI1	1.0
-TNNI2	1.0

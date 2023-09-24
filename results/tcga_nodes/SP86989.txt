@@ -1,2 +1,0 @@
-Gene	seed_specificity
-KDM3B	1.0

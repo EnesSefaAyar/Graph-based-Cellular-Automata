@@ -1,2 +1,0 @@
-Gene	seed_specificity
-TRIM33	1.0

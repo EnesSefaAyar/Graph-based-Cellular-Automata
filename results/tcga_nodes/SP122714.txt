@@ -1,4 +1,0 @@
-Gene	seed_specificity
-DUSP2	0.53
-PTPRT	1.0
-PTPRD	1.0

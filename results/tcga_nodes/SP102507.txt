@@ -1,5 +1,0 @@
-Gene	seed_specificity
-AP4E1	1.0
-AP4M1	1.0
-AP4S1	1.0
-AP4B1	1.0

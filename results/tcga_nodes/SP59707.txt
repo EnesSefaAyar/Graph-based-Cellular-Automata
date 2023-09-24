@@ -1,3 +1,0 @@
-Gene	seed_specificity
-SYNE1	1.0
-SYNE2	1.0

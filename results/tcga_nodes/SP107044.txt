@@ -1,4 +1,0 @@
-Gene	seed_specificity
-MDN1	1.0
-WDR18	1.0
-NOL9	1.0

@@ -1,2 +1,0 @@
-Gene	seed_specificity
-SMARCC2	1.0

@@ -1,3 +1,0 @@
-Gene	seed_specificity
-STIM2	1.0
-STIM1	1.0

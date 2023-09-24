@@ -1,8 +1,0 @@
-Gene	seed_specificity
-TBL3	1.0
-WDR36	1.0
-NOL6	1.0
-WDR3	1.0
-NOP58	1.0
-LYAR	1.0
-RBM28	1.0

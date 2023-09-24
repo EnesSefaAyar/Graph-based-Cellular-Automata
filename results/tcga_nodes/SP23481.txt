@@ -1,4 +1,0 @@
-Gene	seed_specificity
-NF2	0.84
-CDH13	1.0
-ITGAE	0.91

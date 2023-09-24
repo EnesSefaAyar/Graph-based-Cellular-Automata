@@ -1,2 +1,0 @@
-Gene	seed_specificity
-PDS5B	1.0

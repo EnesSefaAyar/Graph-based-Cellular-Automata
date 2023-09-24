@@ -1,2 +1,0 @@
-Gene	seed_specificity
-BMP2K	1.0

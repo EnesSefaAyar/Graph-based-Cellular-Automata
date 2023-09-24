@@ -1,3 +1,0 @@
-Gene	seed_specificity
-TFB1M	1.0
-PPRC1	1.0

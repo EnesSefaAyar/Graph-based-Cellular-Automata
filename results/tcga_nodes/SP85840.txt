@@ -1,2 +1,0 @@
-Gene	seed_specificity
-PRC1	1.0

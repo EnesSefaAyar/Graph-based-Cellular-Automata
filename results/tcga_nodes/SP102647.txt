@@ -1,4 +1,0 @@
-Gene	seed_specificity
-FBXL3	1.0
-ARNTL	1.0
-CRY2	0.95

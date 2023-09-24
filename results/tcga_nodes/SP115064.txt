@@ -1,5 +1,0 @@
-Gene	seed_specificity
-CNGB1	1.0
-CNGA1	1.0
-GNAT1	1.0
-GRK1	1.0

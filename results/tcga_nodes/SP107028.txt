@@ -1,3 +1,0 @@
-Gene	seed_specificity
-TEC	1.0
-MATK	0.78

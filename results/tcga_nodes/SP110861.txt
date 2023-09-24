@@ -1,3 +1,0 @@
-Gene	seed_specificity
-SIRT5	1.0
-JMJD1C	1.0

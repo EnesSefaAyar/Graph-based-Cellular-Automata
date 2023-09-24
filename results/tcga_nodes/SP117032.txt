@@ -1,2 +1,0 @@
-Gene	seed_specificity
-ABHD5	1.0

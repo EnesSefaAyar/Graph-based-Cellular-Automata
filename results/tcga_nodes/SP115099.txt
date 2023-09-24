@@ -1,2 +1,0 @@
-Gene	seed_specificity
-TJP1	1.0

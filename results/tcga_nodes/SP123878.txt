@@ -1,2 +1,0 @@
-Gene	seed_specificity
-EHMT2	1.0

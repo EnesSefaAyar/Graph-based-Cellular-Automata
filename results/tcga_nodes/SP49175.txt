@@ -1,6 +1,0 @@
-Gene	seed_specificity
-BAP1	1.0
-ASXL1	1.0
-RYR1	1.0
-TRDN	1.0
-CASQ2	1.0

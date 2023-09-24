@@ -1,2 +1,0 @@
-Gene	seed_specificity
-GUCA1A	1.0

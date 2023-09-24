@@ -1,4 +1,0 @@
-Gene	seed_specificity
-PELP1	1.0
-WDR18	1.0
-NOL9	1.0
