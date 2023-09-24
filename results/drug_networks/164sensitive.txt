@@ -1,0 +1,16 @@
+PFN1 ACTG1 {'Confidence': 0.958, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RAPGEF3 RYR2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPNS1 CAPN2 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SEMA3A PLXNA1 {'Confidence': 0.996, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+SEMA3A PLXNA2 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+SEMA3A PLXNA4 {'Confidence': 0.996, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+L1CAM PLXNA1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+EFNB2 EPHB4 {'Confidence': 0.89, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RPS6KA1 L1CAM {'Confidence': 0.2921984, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': False, 'complex': False}
+ROCK1 MYL12A {'Confidence': 0.934, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ROCK1 PIP5K1B {'Confidence': 0.905, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ROCK1 PFN1 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+ROCK1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+IL12A IL12B {'Confidence': 0.998, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+MYL12A ACTG1 {'Confidence': 0.775, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

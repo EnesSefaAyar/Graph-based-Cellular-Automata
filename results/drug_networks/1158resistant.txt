@@ -1,0 +1,16 @@
+SF3B3 SF3B5 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+SF3B3 SF3A3 {'Confidence': 0.96, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+SF3B3 PHF5A {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+SF3B3 SF3B2 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+EFNB2 EPHB4 {'Confidence': 0.89, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SEC13 NUP37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+RBM7 SF3B2 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+C6 C7 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PHF5A SF3B3 {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+SF3B2 SF3B3 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+SF3B2 RBM7 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+SF3B5 SF3B3 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SF3A3 SF3B3 {'Confidence': 0.96, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NUP37 SEC13 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

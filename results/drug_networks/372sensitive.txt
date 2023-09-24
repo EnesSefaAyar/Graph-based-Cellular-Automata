@@ -1,0 +1,14 @@
+PAK5 ARHGEF6 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PAK5 LIMK1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+BRK1 WASF1 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+BRK1 ARPC5 {'Confidence': 0.927, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 ARPC5 {'Confidence': 0.956, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WASF1 BRK1 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+CAMK2B MAPK7 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPNS1 CAPN2 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+POLD2 RFC5 {'Confidence': 0.976, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLD3 RFC5 {'Confidence': 0.924, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

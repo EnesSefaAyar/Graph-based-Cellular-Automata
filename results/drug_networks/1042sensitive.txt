@@ -1,0 +1,14 @@
+SEC13 NUP37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC5 ORC3 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC5 ORC1 {'Confidence': 0.96, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC5 ORC6 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC3 ORC1 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC3 ORC6 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC3 ORC5 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC1 ORC5 {'Confidence': 0.96, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC1 ORC3 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NUP37 SEC13 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC6 ORC3 {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+ORC6 ORC5 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

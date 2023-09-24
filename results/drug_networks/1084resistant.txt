@@ -1,0 +1,16 @@
+DUSP10 MAPK10 {'Confidence': 0.814, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DUSP5 MAPK10 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP8 MAPK10 {'Confidence': 0.764, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP2 MAPK10 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPN1 TLN1 {'Confidence': 0.949, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TLN1 CAPN1 {'Confidence': 0.949, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PTPN7 MAPK10 {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPNS1 CAPN2 {'Confidence': 0.995, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPNS1 TLN1 {'Confidence': 0.945, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPN2 TLN1 {'Confidence': 0.957, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP16 MAPK10 {'Confidence': 0.881, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DUSP16 MAPK8IP2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MAPK10 YWHAZ {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+MAPK8IP2 MAPK10 {'Confidence': 0.927, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

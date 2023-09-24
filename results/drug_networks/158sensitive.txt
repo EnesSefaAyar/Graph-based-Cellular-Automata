@@ -1,0 +1,15 @@
+RRAGA DEPTOR {'Confidence': 0.957, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RRAGA AKT1S1 {'Confidence': 0.991, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+SNX32 SNX2 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SEC13 NUP37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS36 VPS25 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS25 VPS36 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS25 CHMP6 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX32 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX5 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RRAGB DEPTOR {'Confidence': 0.953, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+RRAGB AKT1S1 {'Confidence': 0.954, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+NUP37 SEC13 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+CHMP6 VPS25 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX5 SNX2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

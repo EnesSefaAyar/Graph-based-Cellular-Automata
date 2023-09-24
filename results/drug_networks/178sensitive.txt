@@ -1,0 +1,16 @@
+SNX32 SNX2 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SEC13 NUP37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+RFC5 RAD17 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}
+VPS36 VPS25 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS25 VPS36 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS25 CHMP6 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX32 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX5 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SOCS3 IFNAR1 {'Confidence': 0.854, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NUP37 SEC13 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+CHMP6 VPS25 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+SNX5 SNX2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RAD17 RFC5 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': False, 'complex': True}

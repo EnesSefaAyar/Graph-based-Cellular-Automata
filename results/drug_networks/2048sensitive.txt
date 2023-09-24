@@ -1,0 +1,16 @@
+RBBP4 LIN37 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+RBBP4 LIN54 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+EPS15L1 EPS15 {'Confidence': 0.914, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+RPS6KA1 TSC2 {'Confidence': 0.988, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SESN2 MIOS {'Confidence': 0.977, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SESN2 WDR59 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+LIN37 LIN54 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN37 RBBP4 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN54 RBBP4 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+LIN54 LIN37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+TSC2 PRR5 {'Confidence': 0.955, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TSC2 RICTOR {'Confidence': 0.997, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+WDR59 SESN2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+CASQ2 TRDN {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TRDN CASQ2 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}

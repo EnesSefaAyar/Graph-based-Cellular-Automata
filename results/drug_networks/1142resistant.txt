@@ -1,0 +1,16 @@
+EFNB2 EPHB4 {'Confidence': 0.89, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+REV1 POLI {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+REV1 POLH {'Confidence': 0.97, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PALB2 POLH {'Confidence': 0.949, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+FANCB FANCM {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCB FANCG {'Confidence': 0.83, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCB FAAP100 {'Confidence': 0.56, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+FGF8 PDGFRA {'Confidence': 0.749, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+POLI REV1 {'Confidence': 0.92, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+POLH REV1 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+VEGFC PDGFRA {'Confidence': 0.785, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+FANCM FANCG {'Confidence': 0.83, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FANCM FAAP100 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+POLD2 POLD3 {'Confidence': 0.999, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+FAAP100 FANCG {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': True}
+MAPK10 KIF5C {'Confidence': 0.74, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}

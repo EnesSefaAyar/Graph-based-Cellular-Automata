@@ -1,0 +1,17 @@
+DEK TP53 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+SEC13 NUP37 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+MFN2 MFN1 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+MFN1 MFN2 {'Confidence': 0.89, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PAK6 ARHGEF6 {'Confidence': 0.726, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPN1 TLN1 {'Confidence': 0.949, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 BAK1 {'Confidence': 0.997, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 POLK {'Confidence': 0.843, 'is_directed': -1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+TP53 DUSP5 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TP53 DEK {'Confidence': 1.0, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+TLN1 CAPN1 {'Confidence': 0.949, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+PDPK1 MAPK7 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+CAPN2 TLN1 {'Confidence': 0.957, 'is_directed': -1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+NXF2 NXT2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+DUSP16 MAPK8IP2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NXT2 NXF2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+NUP37 SEC13 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}

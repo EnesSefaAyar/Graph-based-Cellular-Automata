@@ -1,0 +1,15 @@
+SNX32 SNX2 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+STAG1 STAG2 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+TGFA PDGFRA {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+VPS36 VPS25 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS25 VPS36 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+VPS25 CHMP6 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX32 {'Confidence': 0.94, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX2 SNX5 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+GSK3B RCAN1 {'Confidence': 0.84, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+VEGFC PDGFRA {'Confidence': 0.785, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+DUSP16 MAPK8IP2 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+PRKG1 FHOD1 {'Confidence': 1.0, 'is_directed': 1.0, 'BIOGRID': False, 'pathway': True, 'complex': False}
+STAG2 STAG1 {'Confidence': 0.9, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': True}
+CHMP6 VPS25 {'Confidence': 0.87, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
+SNX5 SNX2 {'Confidence': 0.88, 'is_directed': 0.0, 'BIOGRID': True, 'pathway': True, 'complex': False}
